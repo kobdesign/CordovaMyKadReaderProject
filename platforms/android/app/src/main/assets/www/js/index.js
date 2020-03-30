@@ -37,7 +37,7 @@ var app = {
             alert("Error calling Hello Plugin");
         }
 
-        MyKadReader.connect("Kob", success, failure);
+        window.plugin.MyKadReader.greet("Kob", success, failure);
 
     },
 
