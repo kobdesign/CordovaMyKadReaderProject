@@ -10,7 +10,7 @@
   "MyKadReader": {
     "source": {
       "type": "registry",
-      "id": "https://github.com/kobdesign/CardReaderPlugin.git"
+      "id": "https://github.com/kobdesign/CardReaderPlugin"
     },
     "is_top_level": true,
     "variables": {}

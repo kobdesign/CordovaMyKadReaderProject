@@ -7,8 +7,8 @@
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "https://github.com/kobdesign/CardReaderPlugin.git",
-    "rawSpec": "https://github.com/kobdesign/CardReaderPlugin.git",
+    "raw": "https://github.com/kobdesign/CardReaderPlugin",
+    "rawSpec": "https://github.com/kobdesign/CardReaderPlugin",
     "saveSpec": "git+https://github.com/kobdesign/CardReaderPlugin.git",
     "fetchSpec": "https://github.com/kobdesign/CardReaderPlugin.git",
     "gitCommittish": null
@@ -17,8 +17,8 @@
     "#USER",
     "/"
   ],
-  "_resolved": "git+https://github.com/kobdesign/CardReaderPlugin.git#209a98665c137a25e1f23c8ee0c1163f20f7145e",
-  "_spec": "https://github.com/kobdesign/CardReaderPlugin.git",
+  "_resolved": "git+https://github.com/kobdesign/CardReaderPlugin.git#8d4b2e50d0f3190c2821daf1cfe2bbd750b9d3fd",
+  "_spec": "https://github.com/kobdesign/CardReaderPlugin",
   "_where": "/Users/kobdesign/Documents/Training/MyKadReader",
   "author": {
     "name": "Abhisak Chonchanakul",
