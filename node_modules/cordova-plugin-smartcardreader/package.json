@@ -1,0 +1,61 @@
+{
+  "_from": "git+https://github.com/kobdesign/CardReaderPlugin.git",
+  "_id": "cordova-plugin-smartcardreader@0.0.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-smartcardreader",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/kobdesign/CardReaderPlugin.git",
+    "rawSpec": "https://github.com/kobdesign/CardReaderPlugin.git",
+    "saveSpec": "git+https://github.com/kobdesign/CardReaderPlugin.git",
+    "fetchSpec": "https://github.com/kobdesign/CardReaderPlugin.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/kobdesign/CardReaderPlugin.git#209a98665c137a25e1f23c8ee0c1163f20f7145e",
+  "_spec": "https://github.com/kobdesign/CardReaderPlugin.git",
+  "_where": "/Users/kobdesign/Documents/Training/MyKadReader",
+  "author": {
+    "name": "Abhisak Chonchanakul",
+    "email": "abhisak@ipassion.co.th"
+  },
+  "bugs": {
+    "url": "https://github.com/kobdesign/CardReaderPlugin/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-smartcardreader",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "An Android Cordova plugin that allows users to received data from Smart card reader.",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "homepage": "https://github.com/kobdesign/CardReaderPlugin/",
+  "keywords": [
+    "SmartCardReader",
+    "Reader",
+    "SmartCard",
+    "CardReader",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-smartcardreader",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kobdesign/CardReaderPlugin.git"
+  },
+  "version": "0.0.1"
+}
