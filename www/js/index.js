@@ -37,7 +37,11 @@ var app = {
             alert("Error calling Hello Plugin");
         }
 
-        MyKadReader.greet("Kob", success, failure);
+        MyKadReader.greet("Kobdesign", success, failure);
+
+        //!javascript code in AngularJS
+
+       //MyKadReader.Connect("mReg",success,failure);
 
     },
 
